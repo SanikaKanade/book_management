@@ -1,0 +1,16 @@
+body{
+    background-color:black;
+    color: #fff; 
+}
+#bookTable{
+    color:#fff;
+}
+.modal{
+    color:black;
+}
+h1{
+    text-align:center;   
+}
+.btn warning editBtn{
+    color:#fff;
+}
